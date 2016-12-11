@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-spider",
+  "version": "1.0.0",
+  "description": "ss'spider",
+  "main": "async.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfuuss/nodejs-spider.git"
+  },
+  "keywords": [
+    "spider"
+  ],
+  "author": "zhangsan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hfuuss/nodejs-spider/issues"
+  },
+  "homepage": "https://github.com/hfuuss/nodejs-spider#readme",
+  "dependencies": {
+    "async": "2.1.4",
+    "cheerio": "0.22.0",
+    "eventproxy": "0.3.5",
+    "superagent": "3.1.0"
+  }
+}
